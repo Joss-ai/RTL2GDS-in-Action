@@ -1,4 +1,4 @@
-name: 'GDS 2D-3D viewer'
+name: 'GDS 2D-3D Viewer'
 
 on:
   workflow_run:
