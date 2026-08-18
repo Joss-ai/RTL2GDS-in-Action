@@ -48,7 +48,7 @@
     "CLOCK_PORT": "my_clk",
     "CLOCK_PERIOD": 10,
     "FP_SIZING": "absolute",
-    "DIE_AREA": [0, 0, 51, 49],
+    "DIE_AREA": [0, 0, 40, 40],
     "VDD_NETS": ["vdd"],
     "GND_NETS": ["vss"],
     "KLAYOUT_PROPERTIES": "dir::klayout_sky130_colors.lyp"
